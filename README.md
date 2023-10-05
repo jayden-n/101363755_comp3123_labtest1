@@ -5,7 +5,7 @@
 
 
 
-## Commands Screenshots 📸
+## Output Screenshots 📸
 - `Question 1:`
 
 <img width="1766" alt="Screenshot 2023-10-05 at 12 53 06 PM" src="https://github.com/jayden-n/101363755_comp3123_labtest1/assets/94060508/10d1d549-b589-412e-ad8d-3efc7a86894b"> <br />
@@ -22,3 +22,7 @@
 ## Contributing
 
 Pull requests are welcomed and highly appreciated. Before making any major changes, please feel free to open an issue and initiate a discussion about your ideas. Your valuable input and collaboration are greatly valued.
+
+## License
+
+This repo is available under [MIT](https://choosealicense.com/licenses/mit/).
